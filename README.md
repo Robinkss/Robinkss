@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Robin
 <!-- ==================== -->
 <!--     Bannière     -->
-
+<p align="center">
+  <img src="images/header.jpg" alt="Dev Banner" width="650px"/>
+</p>
 
 ## About me
 
