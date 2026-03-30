@@ -23,7 +23,7 @@ I'm currently training in functional programming paradigms, particularly for a p
 The project in question :)
 
 With a friend, we've embarked on creating a music and social platform dedicated to independent artists. Our idea is to offer an alternative to current solutions by providing fairer compensation and fostering closer connections between artists and their community. We also strive for transparency in how we handle the data of our future users. We also aim to have complete control over our data, for example, by developing our own AI to create a recommendation algorithm.
-This project will soon be launched on GitHub (we're starting a migration from GitLab to GitHub). You can follow its progress; updates will be posted on my LinkedIn.
+The repository's frontend (which I am responsible for) will soon be publicly available on my GitHub, distributed as Open Source. Updates will be posted on my LinkedIn.
 
 ## 💻 Programming languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
